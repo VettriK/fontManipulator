@@ -1,0 +1,25 @@
+.heading{
+font-size: 20px;
+margin: 0px;
+box-shadow: 6px 3px 50px darkblue;
+width: 100%
+}
+.note{
+font-size: 15px;
+color: black;
+}
+.footerNote{
+    background-color: coral;
+    bottom: 0;
+    color: azure;
+    font-size: 15px;
+    text-align: center;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 6px 6px 35px black;
+    border: 5px double darkgoldenrod;
+}
